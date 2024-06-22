@@ -1,0 +1,7 @@
+# ninja log v6
+2	339	1719049007233851618	CMakeFiles/untitled8.dir/main.cpp.o	bc4fd11f2e5c413a
+4	1039	1719049007235233303	CMakeFiles/untitled8.dir/Simulation.cpp.o	3cae838e7a838ab3
+4	600	1719049007235005973	CMakeFiles/untitled8.dir/Table.cpp.o	6854cd620d5bcb7c
+4	673	1719049007235415341	CMakeFiles/untitled8.dir/Test.cpp.o	7f62697c1fc0cf70
+3	625	1719049007234477982	CMakeFiles/untitled8.dir/Algorithm.cpp.o	52882a97a9e46821
+1039	1071	1719049008270353237	untitled8	652d5a80e2f06d29
